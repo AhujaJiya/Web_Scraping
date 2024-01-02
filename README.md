@@ -9,4 +9,5 @@ This repository contains a Python script for scraping data from the [This Websit
 
 ## Check the generated files:
 outputfinal.json: Contains the raw JSON response from the API
+
 Output_WebScraping.xlsx: Excel file with initial scraped data
